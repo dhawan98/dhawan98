@@ -50,9 +50,9 @@ Lately, I’ve been diving into:
 
 ### 🔗 Connect with Me
 
-- [🌐 Portfolio]((https://dhawan98.github.io/))  
+- [🌐 Portfolio](https://dhawan98.github.io/)  
 - [💼 LinkedIn](https://linkedin.com/in/aashish-dhawan)  
-- [✍️ Medium]((https://medium.com/@aashishdhawan_2946))
+- [✍️ Medium](https://medium.com/@aashishdhawan_2946)
 
 ---
 
