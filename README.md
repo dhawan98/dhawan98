@@ -7,7 +7,8 @@ Focused on **AI Agents**, **ML Research**, and **Multimodal AI Systems**
 
 ### 👨‍💻 About Me
 
-I'm a Computer Science graduate interested in building intelligent systems that learn, adapt, and solve real-world problems. I’ve worked across top-tier research institutions including **ISRO**, **UBTECH AI Lab, University of Sydney**, and **The University of Florida**, focusing on everything from neural networks for quantum mechanics to scalable machine learning infrastructure.
+Computer Science graduate passionate about building adaptive, intelligent systems. I've contributed to research at **ISRO**, **UBTECH AI Lab (University of Sydney)**, and **The University of Florida**, focusing on machine learning infrastructure and real-world AI applications.
+
 
 Lately, I’ve been diving into:
 - Autonomous job application agents using LLMs  
