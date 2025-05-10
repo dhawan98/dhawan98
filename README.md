@@ -1,8 +1,8 @@
 ### Hi there, I'm Aashish Dhawan 👋 [🌐 Portfolio](https://dhawan98.github.io/)  [💼 LinkedIn](https://linkedin.com/in/aashish-dhawan)   [✍️ Medium](https://medium.com/@aashishdhawan_2946)
 
-**Research Assistant @ University of Florida** 
-Research Interests : **Computer Vision**, **NLP**, **Low Resource Learning**
-Current Projects focused on **AI Agents**, **ML Research**, and **Multimodal AI Systems**
+**Research Assistant @ University of Florida**   
+Research Interests : **Computer Vision**, **NLP**, **Low Resource Learning**    
+Current Projects focused on **AI Agents**, **ML Research**, and **Multimodal AI Systems**    
 
 ---
 
