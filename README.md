@@ -2,7 +2,7 @@
 
 **Research Assistant @ University of Florida**   
 Research Interests : **Computer Vision**, **NLP**, **Low Resource Learning**    
-Current Projects focused on **AI Agents**, **ML Research**, and **Multimodal AI Systems**    
+Current Projects focused on **AI Agents**, **Generative AI** and **Multimodal AI Systems**    
 
 ---
 
