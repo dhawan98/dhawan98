@@ -12,7 +12,7 @@ Computer Science graduate passionate about building adaptive, intelligent system
 
 
 Lately, I’ve been diving into:
-- Autonomous job application agents using LLMs  
+- Explainable AI - A model that can explain it's decisions in human interpretable form   
 - LoRA-based personalization of image generation pipelines  
 - Multilingual and low-resource translation systems  
 - AI agents that jam music (yes, they play drums while I play guitar 🎸)  
